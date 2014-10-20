@@ -13,3 +13,7 @@ int main(int argc, char **argv)
     return memset(0, 0, 100);
 }
 ```
+
+AAA|BBB
+---|---
+HHH|TTT
